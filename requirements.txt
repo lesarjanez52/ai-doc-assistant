@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+chromadb
+pypdf
+docx2txt
+unstructured
+openpyxl
+pandas
